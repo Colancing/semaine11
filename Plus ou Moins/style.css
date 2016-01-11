@@ -1,0 +1,23 @@
+body {
+    background: #1c5570;
+    color: #ffffff;
+    font:400 .9em/1.9 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
+    margin-left:200px;
+}
+.input, #answer {
+    width: 60%;
+    margin:60px auto;
+    padding: 1em;
+    height: 4em;
+    border: 0 none;
+}
+
+.input{
+    display:block;
+    background: #21cf8f;
+    cursor: pointer;
+    color:white;
+}
+#answer{
+    color: #f2bb18;
+}
