@@ -1,7 +1,7 @@
 body {
     background: #1c5570;
     color: #ffffff;
-    font:400 .9em/1.9 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
+    font:14px 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
     margin-left:200px;
 }
 .input, #answer {
